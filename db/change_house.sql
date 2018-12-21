@@ -1,0 +1,3 @@
+ALTER TABLE ADD COLUMN 
+estimate INTEGER
+;
